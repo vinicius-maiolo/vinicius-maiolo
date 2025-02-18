@@ -16,7 +16,7 @@
 ## 🔥 Tecnologias & Ferramentas  
 💡 **Linguagens de Programação:** Python 🐍 | SQL 🗄️ | DAX 📊  
 ☁️ **Cloud:** Google Cloud (BigQuery, Airflow) | AWS (S3, Redshift)  
-⚡ **BI & Analytics Visualization:** Power BI, Python.
+⚡ **BI & Analytics Visualization:** Power BI, Python.  
 🔧 **Orquestração & ETL:** Apache Airflow, DBT  
 🐙 **Versionamento:** GitHub, Git  
 
