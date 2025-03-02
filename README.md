@@ -1,38 +1,38 @@
-# 🚀 Olá, eu sou o Vinícius!  
+# 🚀 Hello, I'm Vinícius!  
 
-👨‍💻 **Data Analyst | Data Engineer | BI Developer**  
-📊 Transformando dados em insights estratégicos   
-
----
-
-## 🛠 O que faço?  
-🔹 Construo **Data Warehouses** para estruturar dados de forma eficiente  
-🔹 Crio **dashboards interativos** para facilitar a tomada de decisões  
-🔹 Desenvolvo **pipelines de dados** para automação e processamento eficiente  
-🔹 Uso **SQL, Python e Cloud (GCP & AWS)** para resolver problemas complexos  
+👨‍💻 **Data Analyst | Data Analytics Engineer | BI Developer**  
+📊 Transforming data into strategic insights  
 
 ---
 
-## 🔥 Tecnologias & Ferramentas  
-💡 **Linguagens de Programação:** Python 🐍 | SQL 🗄️ | DAX 📊  
+## 🛠 What do I do?  
+🔹 Build **Data Warehouses** to structure data efficiently  
+🔹 Create **interactive dashboards** to support decision-making  
+🔹 Develop **data pipelines** for automation and efficient processing  
+🔹 Use **SQL, Python, and Cloud (GCP & AWS)** to solve complex problems  
+
+---
+
+## 🔥 Technologies & Tools  
+💡 **Programming Languages:** Python 🐍 | SQL 🗄️ | DAX 📊  
 ☁️ **Cloud:** Google Cloud (BigQuery, Airflow) | AWS (S3, Redshift)  
-⚡ **BI & Analytics Visualization:** Power BI, Python.  
-🔧 **Orquestração & ETL:** Apache Airflow, DBT  
-🐙 **Versionamento:** GitHub, Git  
+⚡ **BI & Analytics Visualization:** Power BI, Python  
+🔧 **Orchestration & ETL:** Apache Airflow, DBT  
+🐙 **Version Control:** GitHub, Git  
 
 ---
 
-## 🌟 O que me motiva?  
-🔹Desafios de transformar **dados brutos** em **insights acionáveis** e impactar positivamente negócios de sucesso 🚀  
-🔹Trabalhar com **dados, tecnologia e inovação**, para melhorar processos e gerar valor para companhias, produtos e stakeholders!  
+## 🌟 What drives me?  
+🔹 The challenge of turning **raw data** into **actionable insights** to positively impact businesses 🚀  
+🔹 Working with **data, technology, and innovation** to improve processes and create value for companies, products, and stakeholders!  
 
 ---
 
-## 📫 Vamos conectar?  
+## 📫 Let's connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-maiolo/)  
 📧 vmaiolopes@gmail.com  
 
 ---
 
-🔍 **_“Sem dados você é apenas mais uma pessoa com uma opinião.”
-William Edwards Deming_**  
+🔍 **_“Without data, you’re just another person with an opinion.”  
+— William Edwards Deming_**  
